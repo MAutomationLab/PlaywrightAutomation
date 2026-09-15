@@ -1,0 +1,17 @@
+[
+    {
+        "userName":"kunapradhan.mp@gmail.com",
+        "password":"Kuna@3456",
+        "productName": "ZARA COAT 3",
+        "countryCode": "ind",
+        "countryName": "India"
+    },
+
+    {
+        "userName":"anshika@gmail.com",
+        "password":"Iamking@000",
+        "productName": "ADIDAS ORIGINAL",
+        "countryCode": "ind",
+        "countryName": "India"
+    }
+]
